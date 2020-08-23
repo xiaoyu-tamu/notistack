@@ -45,9 +45,9 @@ export const originKeyExtractor = (anchor: Snack['anchorOrigin']): string => (
 /**
  * Omit SnackbarContainer class keys that are not needed for SnackbarItem
  */
-export const omitContainerKeys = (classes: SnackbarProviderProps['classes']): SnackbarItemProps['classes'] => (
-    // @ts-ignore
-    Object.keys(classes).filter(key => !allClasses.container[key]).reduce((obj, key) => ({ ...obj, [key]: classes[key] }), {})
+
+export const omitContainerKeys = (classes: NonNullable<SnackbarProviderProps['classes']>): SnackbarItemProps['classes'] => (
+    Object.keys(classes).filter(key => !(allClasses.container as any)[key]).reduce((obj, key) => ({ ...obj, [key]: (classes as any)[key] }), {}) as any
 );
 
 export const DEFAULTS = {

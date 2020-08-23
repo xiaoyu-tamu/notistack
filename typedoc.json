@@ -1,6 +1,6 @@
 {
 	"id": 0,
-	"name": "notistack",
+	"name": "notistack-v5",
 	"kind": 0,
 	"flags": {},
 	"originalName": "",
@@ -1088,7 +1088,7 @@
 					"sources": [
 						{
 							"fileName": "node_modules/@material-ui/core/index.d.ts",
-							"line": 24,
+							"line": 25,
 							"character": 13
 						}
 					],
@@ -1126,7 +1126,7 @@
 					"sources": [
 						{
 							"fileName": "node_modules/@material-ui/styles/withStyles/withStyles.d.ts",
-							"line": 115,
+							"line": 119,
 							"character": 9
 						}
 					],
@@ -1214,7 +1214,7 @@
 					"sources": [
 						{
 							"fileName": "node_modules/@material-ui/styles/withStyles/withStyles.d.ts",
-							"line": 116,
+							"line": 120,
 							"character": 10
 						}
 					],
@@ -1246,7 +1246,7 @@
 					"sources": [
 						{
 							"fileName": "node_modules/@material-ui/core/index.d.ts",
-							"line": 25,
+							"line": 26,
 							"character": 7
 						}
 					],
@@ -1279,7 +1279,7 @@
 										"sources": [
 											{
 												"fileName": "node_modules/@material-ui/core/index.d.ts",
-												"line": 25,
+												"line": 26,
 												"character": 25
 											}
 										],
@@ -1301,7 +1301,7 @@
 								"sources": [
 									{
 										"fileName": "node_modules/@material-ui/core/index.d.ts",
-										"line": 25,
+										"line": 26,
 										"character": 19
 									}
 								]
@@ -1379,7 +1379,7 @@
 					"sources": [
 						{
 							"fileName": "node_modules/@material-ui/core/index.d.ts",
-							"line": 26,
+							"line": 27,
 							"character": 9
 						}
 					],
@@ -1657,7 +1657,7 @@
 										"sources": [
 											{
 												"fileName": "node_modules/@material-ui/core/index.d.ts",
-												"line": 24,
+												"line": 25,
 												"character": 13
 											}
 										],
@@ -1687,7 +1687,7 @@
 										"sources": [
 											{
 												"fileName": "node_modules/@material-ui/core/index.d.ts",
-												"line": 25,
+												"line": 26,
 												"character": 7
 											}
 										],
@@ -1720,7 +1720,7 @@
 															"sources": [
 																{
 																	"fileName": "node_modules/@material-ui/core/index.d.ts",
-																	"line": 25,
+																	"line": 26,
 																	"character": 25
 																}
 															],
@@ -1742,7 +1742,7 @@
 													"sources": [
 														{
 															"fileName": "node_modules/@material-ui/core/index.d.ts",
-															"line": 25,
+															"line": 26,
 															"character": 19
 														}
 													]
@@ -1776,7 +1776,7 @@
 										"sources": [
 											{
 												"fileName": "node_modules/@material-ui/core/index.d.ts",
-												"line": 26,
+												"line": 27,
 												"character": 9
 											}
 										],
